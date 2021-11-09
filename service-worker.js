@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mtrx3700-major-project-website/precache-manifest.291cc3caf307b1f9d6bee19eeadff27e.js"
+  "/mtrx3700-major-project-website/precache-manifest.d2dafc51b4fe46d361c159ba6c58ba7e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "webapp"});
